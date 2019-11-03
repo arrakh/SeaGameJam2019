@@ -9,5 +9,9 @@
 			"Enabled": true,
 			"MarketplaceURL": "http://www.ue4code.com"
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor"
 	]
 }
